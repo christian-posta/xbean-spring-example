@@ -1,0 +1,1 @@
+Creating custom spring configuration namespaces can cut down on the size and bloat of your spring configuration files. Spring's Documentation clearly outlines the steps for including your custom namespaces. I'd like to show you xbean-spring, a project from Apache that allows you to create custom namespaces much easer: with a few annotations and a maven plugin.
